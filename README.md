@@ -34,9 +34,9 @@ A Power BI dashboard analysing sales, profitability, product performance, season
 
 ## Files
 
-- `sportswear-retail-dashboard.pbix`
-- `images/dashboard-preview.png`
-- `documentation/dashboard-guide.docx`
+- `adidas_sales_dashboard.pbix`
+- `dashboard-preview.png`
+- `Adidas_BI_Dashboard_Design_and_Build_Guide.docx`
 
 ## Disclaimer
 
