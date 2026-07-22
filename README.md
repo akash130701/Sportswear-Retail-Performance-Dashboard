@@ -4,7 +4,7 @@ A Power BI dashboard analysing sales, profitability, product performance, season
 
 ## Dashboard Preview
 
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.png)
 
 ## Key Features
 
